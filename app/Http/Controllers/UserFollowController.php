@@ -1,3 +1,4 @@
+<?php
 namespace App\Http\Controllers;
 
 class UserFollowController extends Controller
